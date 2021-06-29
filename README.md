@@ -32,5 +32,9 @@ I am native and cross platform mobile app developer from India
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [React-Native Animated Header using Animated and ScrollView](https://medium.com/hackernoon/react-native-animated-header-using-animated-and-scrollview-9749255c149a?source=rss-34c24ba54aeb------2)
+- [How to use SwipeableFlatList — New react-native experimental component](https://medium.com/@rutvikbhatt9/how-to-use-swipeableflatlist-new-react-native-experimental-component-cb792b1c7b0a?source=rss-34c24ba54aeb------2)
+- [GitLab CI/CD -  Configuring .gitlab-ci.yml file for React-Native (Android)](https://faun.pub/gitlab-ci-cd-configuring-gitlab-ci-yml-file-for-react-native-android-8fe7612a516?source=rss-34c24ba54aeb------2)
+- [GitLab CI/CD - Configuring .gitlab-ci.yml file Android(Part-4)](https://faun.pub/gitlab-ci-cd-configuring-gitlab-ci-yml-file-android-part-4-4d48bc456eb5?source=rss-34c24ba54aeb------2)
+- [GitLab CI/CD - Configuring GitLab Variable and Google PlayService Account (Part-3)](https://faun.pub/gitlab-ci-cd-configuring-gitlab-variable-and-google-playservice-account-part-3-e6614699cad8?source=rss-34c24ba54aeb------2)
 <!-- BLOG-POST-LIST:END -->
