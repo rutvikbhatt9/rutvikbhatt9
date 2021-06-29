@@ -3,7 +3,7 @@ I am native and cross platform mobile app developer from India
 
 - 🔭 Working on multiple mobile app projects using Android-Native, React-Native and Flutter
 - 🌱 Learning design patterns in depth
-<br>
+<br />
 
 ## Connect with me
 
@@ -14,8 +14,8 @@ I am native and cross platform mobile app developer from India
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rutvik_bhatt)
 
 
-<br>
-<br>
+<br />
+<br />
 
 ## Expertise
 <img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
@@ -25,8 +25,8 @@ I am native and cross platform mobile app developer from India
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-<br>
-<br>
+<br />
+<br />
 
 
 ## Blog posts
