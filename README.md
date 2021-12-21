@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am native and cross platform mobile app developer from India
+I am native and cross platform mobile app developer from India :india:.
 
 - 🔭 Working on multiple mobile app projects using Android-Native, React-Native and Flutter
 - 🌱 Learning design patterns in depth
@@ -37,3 +37,13 @@ I am native and cross platform mobile app developer from India
 - [GitLab CI/CD - Configuring .gitlab-ci.yml file Android&lpar;Part-4&rpar;](https://faun.pub/gitlab-ci-cd-configuring-gitlab-ci-yml-file-android-part-4-4d48bc456eb5?source=rss-34c24ba54aeb------2)
 - [GitLab CI/CD - Configuring GitLab Variable and Google PlayService Account &lpar;Part-3&rpar;](https://faun.pub/gitlab-ci-cd-configuring-gitlab-variable-and-google-playservice-account-part-3-e6614699cad8?source=rss-34c24ba54aeb------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Stats
+
+<a href="https://github.com/rutvikbhatt9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbhatt9&theme=light&hide_langs_below=1" alt="Rutvik's github stats"/>
+</a>
+
+<a href="https://github.com/rutvikbhatt9">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvikbhatt9&show_icons=true&theme=light&line_height=27" alt="Rutvik's github stats"/>
+</a>
