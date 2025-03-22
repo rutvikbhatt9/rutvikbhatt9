@@ -27,15 +27,6 @@ I am native and cross platform mobile app developer from India :india:.
 <br />
 <br />
 
-
-## Blog posts
-- [GraphQL Apollo Client Configuration - React-Native](https://cyburst.io/graphql-apollo-client-configuration-react-native/)
-- [React-Native Animated Header using Animated and ScrollView](https://cyburst.io/react-native-animated-header-with-scrollview/)
-- [How to use SwipeableFlatList — New react-native experimental component](https://cyburst.io/how-to-use-swipeableflatlist-new-react-native-experimental-component/)
-- [GitLab CI/CD -  Configuring .gitlab-ci.yml file for React-Native &lpar;Android&rpar;](https://cyburst.io/gitlab-ci-cd-configuring-gitlab-ci-yml-file-for-react-native-android/)
-- [GitLab CI/CD - Configuring .gitlab-ci.yml file Android&lpar;Part-4&rpar;](https://cyburst.io/gitlab-ci-cd-configuring-gitlab-ci-yml-file-androidpart-4/)
-- [GitLab CI/CD - Configuring GitLab Variable and Google PlayService Account &lpar;Part-3&rpar;](https://cyburst.io/gitlab-ci-cd-configuring-gitlab-variable-and-google-playservice-account-part-3/)
-
 ## Stats
 
 <a href="https://github.com/rutvikbhatt9">
